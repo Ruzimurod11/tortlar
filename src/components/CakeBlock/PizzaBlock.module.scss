@@ -1,0 +1,94 @@
+/* ============================== Practice ============================ */
+@import "../../scss/variables";
+
+.__ibg {
+   position: relative;
+}
+.__ibg img {
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   -o-object-fit: cover;
+   object-fit: cover;
+}
+
+@media (max-width: 992px) {
+   .practice {
+      padding: 0px 0px 25px 0px;
+   }
+}
+@media (max-width: 767px) {
+   .practice {
+      padding: 0px 0px 25px 0px;
+   }
+}
+.practice__header {
+   margin: 0px 0px 45px 0px;
+}
+@media (max-width: 767px) {
+   .practice__header {
+      margin: 0px 0px 25px 0px;
+   }
+}
+
+@media (max-width: 1040px) {
+   .practice__column {
+      flex: 0 1 50%;
+   }
+}
+@media (max-width: 630px) {
+   .practice__column {
+      flex: 0 1 100%;
+   }
+}
+
+.itemPractice {
+   display: flex;
+   height: 100%;
+   flex-direction: column;
+   border: 1px solid $gray-line;
+   // background-image: url(../../assets/img/banner2.jpg);
+   h4 {
+      font-size: 22px;
+      text-align: center;
+      margin-top: 15px;
+      margin-bottom: 15px;
+   }
+}
+.itemPractice__content {
+   padding: 30px;
+   flex: 1 1 auto;
+}
+.itemPractice__link {
+   color: inherit;
+   display: inline-block;
+}
+.itemPractice__link:not(:last-child) {
+   margin: 0px 0px 15px 0px;
+}
+.itemPractice__link:hover {
+   text-decoration: underline;
+}
+.itemPractice__title {
+   letter-spacing: 0.1px;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 150%;
+}
+.itemPractice__text {
+   color: #e20b0b;
+   line-height: 142%;
+   font-size: 16px;
+}
+@media (max-width: 430px) {
+   .itemPractice__text {
+      font-size: 20px;
+      font-weight: 700;
+   }
+}
+.itemPractice__image {
+   display: block;
+   padding: 0px 0px 111% 0px;
+}

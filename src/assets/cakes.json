@@ -1,0 +1,152 @@
+[
+   {
+      "id": "0",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort10.png?raw=true",
+      "title": "Ommabop",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 5,
+      "rating": 4
+   },
+   {
+      "id": "1",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort11.png?raw=true",
+      "title": "Tug'ilgan kun",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 4,
+      "rating": 6
+   },
+   {
+      "id": "2",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort13.png?raw=true",
+      "title": "Kelin-kuyov",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 1,
+      "rating": 4
+   },
+   {
+      "id": "3",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort15.png?raw=true",
+      "title": "Fayoz",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 3,
+      "rating": 2
+   },
+   {
+      "id": "4",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort16.png?raw=true",
+      "title": "Kelin-kuyov",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 2,
+      "rating": 8
+   },
+   {
+      "id": "5",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort17.png?raw=true",
+      "title": "Tug'ilgan kun",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 4,
+      "rating": 2
+   },
+   {
+      "id": "6",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort18.png?raw=true",
+      "title": "Katta tort",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 5,
+      "rating": 9
+   },
+   {
+      "id": "7",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort19.png?raw=true",
+      "title": "Kelin-kuyov",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 1,
+      "rating": 10
+   },
+   {
+      "id": "8",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort21.png?raw=true",
+      "title": "To'y uchun",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 1,
+      "rating": 10
+   },
+   {
+      "id": "9",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort23.png?raw=true",
+      "title": "Tug'ilgan kun",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 4,
+      "rating": 7
+   },
+   {
+      "id": "10",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort3.jpg?raw=true",
+      "title": "Imona",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 3,
+      "rating": 7
+   },
+   {
+      "id": "11",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort4.jpg?raw=true",
+      "title": "Xadicha",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 3,
+      "rating": 7
+   },
+   {
+      "id": "12",
+      "imageUrl": "https://github.com/Ruzimurod11/cake/blob/main/img/practice/tort2.jpg?raw=true",
+      "title": "Kumushbibi",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 3,
+      "rating": 7
+   },
+   {
+      "id": "13",
+      "imageUrl": "https://github.com/Ruzimurod11/imgtort/blob/main/img/img1.jpg?raw=true",
+      "title": "Dilsora",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 3,
+      "rating": 7
+   },
+   {
+      "id": "14",
+      "imageUrl": "https://github.com/Ruzimurod11/imgtort/blob/main/img/img2.jpg?raw=true",
+      "title": "Mubina",
+      "types": [0, 1],
+      "sizes": [30, 50, 100],
+      "price": [2000, 4000],
+      "category": 3,
+      "rating": 7
+   }
+]
